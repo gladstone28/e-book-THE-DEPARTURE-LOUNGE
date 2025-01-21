@@ -1,8 +1,9 @@
 
-Chapter 1: The Waiting Room
+#### Chapter 1: The Waiting Room
+
 The sun had just begun to set, casting a golden glow across the sky. Inside the peaceful room, the air was thick with a calm that only comes with certainty. The faint hum of a distant breeze played through the open window, and the soft murmur of voices mingled with the quiet rustle of pages turning in well-worn Bibles. The room, though small and unassuming, felt larger than life, as if it held the weight of many lifetimes.
 
-This was the Departure Lounge.
+**This was the Departure Lounge.**
 
 At least, that’s what the attendants called it. But there was something different about this lounge—a deep, tranquil certainty in the hearts of its occupants. This was no ordinary waiting area, and for the elderly Christians who filled the seats, it was no ordinary time of waiting.
 
